@@ -1,0 +1,4 @@
+Requirement 1: The BMS shall monitor the state of charge (SoC) of the electric vehicle battery in real-time.
+Requirement 2: The BMS shall monitor the voltage of each individual cell within the battery pack.
+Requirement 3: The BMS shall perform cell balancing to ensure uniform charge levels across all cells in the battery pack.
+Requirement 4: The BMS shall detect and diagnose faults related to battery cells, sensors, and communication interfaces.

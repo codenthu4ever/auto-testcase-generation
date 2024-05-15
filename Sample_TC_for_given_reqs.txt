@@ -1,0 +1,4 @@
+Test Case 1: Verify that the BMS accurately monitors the state of charge (SoC) of the battery in real-time.
+Test Case 2: Verify that the BMS collects voltage readings from each individual cell within the battery pack.
+Test Case 3: Verify that the BMS performs cell balancing during charging cycles.
+Test Case 4: Verify that the BMS detects and diagnoses faults related to battery cells.
