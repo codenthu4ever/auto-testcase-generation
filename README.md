@@ -24,10 +24,10 @@ cd auto-testcase-generation
 pip install -r requirements.txt
 
 ## Usage
--Prepare your software requirements in a text file or format.
--Train the machine learning model using the provided scripts or pre-trained models.
--Use the trained model to predict test cases for new requirements.
--Evaluate the model's performance using provided evaluation tools.
+- Prepare your software requirements in a text file or format.
+- Train the machine learning model using the provided scripts or pre-trained models.
+- Use the trained model to predict test cases for new requirements.
+- Evaluate the model's performance using provided evaluation tools.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
