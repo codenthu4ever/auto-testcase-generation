@@ -15,8 +15,6 @@ This repository contains code for automatically generating test cases from softw
 
 ## Installation
 1. Clone this repository to your local machine:
-
-```bash
 git clone https://github.com/your_username/automatic-test-case-generation.git
 
 2. Navigate to the project directory:
